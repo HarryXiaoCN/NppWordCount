@@ -3,7 +3,7 @@
 Notepad++ 小说字数统计插件：在底部状态栏**新增一个独立字段**，实时显示当前文档的字数（含标点 / 不含标点）。
 
 ```
-Normal text file | 长度: 3,351 行数: 65 | 字数: 1079 | 不含标点: 938 | 行: 65 列: 1 ...
+Normal text file | 长度: 12,345 行数: 678 | 字数: 5,678 | 不含标点: 5,012 | 行: 65 列: 1 ...
 ```
 
 原来的“长度/行数”等状态栏信息完全保留，不会被覆盖。
@@ -91,8 +91,8 @@ build\wc_file.exe "C:\path\to\chapter.txt"
 
 ```
 encoding : UTF-8
-with punct.    : 1079
-without punct. : 938
+with punct.    : 1234
+without punct. : 1100
 ```
 
 ## 项目结构
