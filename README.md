@@ -12,6 +12,11 @@ Normal text file | 长度: 3,351 行数: 65 | 字数: 1079 | 不含标点: 938 |
 - 仓库：https://github.com/HarryXiaoCN/NppWordCount
 - 许可证：MIT
 
+## 下载
+
+- 直接下载插件 DLL：[Releases](https://github.com/HarryXiaoCN/NppWordCount/releases/latest)
+- 或从源码构建，见下文“从源码构建”。
+
 ## 功能
 
 - 状态栏实时显示两个字数字段：
