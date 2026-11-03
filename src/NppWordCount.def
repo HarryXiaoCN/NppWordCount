@@ -1,0 +1,9 @@
+LIBRARY NppWordCount
+EXPORTS
+    getName
+    getFuncsArray
+    beNotified
+    messageProc
+    setInfo
+    isUnicode
+    NppWordCount
