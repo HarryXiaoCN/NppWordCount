@@ -6,3 +6,7 @@ build/
 *.ilk
 *.user
 .vs/
+
+# 防止误提交小说正文/草稿
+*.txt
+*.nn
